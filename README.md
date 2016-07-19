@@ -2,7 +2,7 @@
 Repository for USACE Ecology research group at SAMSI July IMSM 2016 Workshop.
 
 Group Members:
-Betsy Heines
-Nickalaus Painter
-Weifan Liu
-Cong Cao
+1. Betsy Heines
+1. Nickalaus Painter
+1. Weifan Liu
+1. Cong Cao
